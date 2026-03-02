@@ -38,7 +38,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Team Contribution Activity
+
+<p align="center">
+  <img width="32%" src="https://github-readme-activity-graph.vercel.app/graph?username=fadhilghazyelhaq-cloud&theme=tokyo-night&hide_border=true"/>
+  <img width="32%" src="https://github-readme-activity-graph.vercel.app/graph?username=danendzaki&theme=tokyo-night&hide_border=true"/>
+  <img width="32%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadazmirobbani-maker&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fadhilghazyelhaq-cloud&theme=tokyonight&hide_border=true" />
