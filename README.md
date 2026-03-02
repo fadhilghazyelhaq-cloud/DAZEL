@@ -38,13 +38,52 @@
 
 ---
 
-## 📌 Connect With Me
+## 👥 Connect With Team DAZEL
+
+---
+
+### 👤 Muhammad Azmi Robbani
 
 <p align="center">
-  <a href="https://github.com/USERNAMEKAMU">
+  <a href="https://github.com/muhammadazmirobbani-maker">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://t.me/USERNAMEKAMU">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://instagram.com/mirobb_az">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammadazmirobbani@smkitihsanulfikri.sch.id">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 👤 Fadhil Ghazy El Haq
+
+<p align="center">
+  <a href="https://github.com/fadhilghazyelhaq-cloud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+   <a href="https://instagram.com/fadhilelhaqq">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+ <a href="mailto:fadhilghazyelhaq@smkitihsanulfikri.sch.id">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 👤 Danendra Dzaki Andita
+
+<p align="center">
+  <a href="https://github.com/danendzaki">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/dzak_dann">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:danendradzaki@smkitihsanulfikri.sch.id">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
