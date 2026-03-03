@@ -1,22 +1,23 @@
 <h1 align="center">DAZEL TEAM</h1>
 <h3 align="center">Telegram Bot Developer • Backend Enthusiast • API Explorer</h3>
 
+<h2 align="center">DAZEL</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danendzaki&color=0e75b6&style=flat" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadazmirobbani-maker&color=0e75b6&style=flat" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=DAZEL&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
 </p>
 
-![Repo Views](https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=fadhilghazyelhaq-cloud/DAZEL&color=blue&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/fadhilghazyelhaq-cloud/DAZEL?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/fadhilghazyelhaq-cloud/DAZEL)
-![Issues](https://img.shields.io/github/issues/fadhilghazyelhaq-cloud/DAZEL)
-![Team](https://img.shields.io/badge/Team-DAZEL-black?style=flat&logo=github)
-![Bot Status](https://img.shields.io/badge/Bot-Active-success)
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/contributors/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-DAZEL-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bot-Active-success?style=flat-square" />
+</p>
 
 ---
 
@@ -31,8 +32,22 @@
 
 ## 🛠 Tech Stack
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,postgresql" />
+  Core Development
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs" />
+</p>
+
+<p align="center">
+  Database & Integration
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Telegram-Integration-2CA5E0?style=flat-square&logo=telegram" />
 </p>
 
 ---
@@ -113,11 +128,9 @@
   </a>
 </p>
 
-
-
-
-
-
+<p align="center">
+  &nbsp;
+</p>
 
 <p align="center">
   <strong>DAZEL</strong> • Automation Through Code  
