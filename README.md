@@ -4,13 +4,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danendzaki&color=0e75b6&style=flat" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadazmirobbani-maker&color=0e75b6&style=flat" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&color=0e75b6&style=flat" />
+</p>
 
-![Repo Views](https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=DAZEL&color=blue&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/danendzaki/DAZEL?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/danendzaki/DAZEL)
-![Issues](https://img.shields.io/github/issues/muhammadazmirobbani-maker/DAZEL)
+![Repo Views](https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=fadhilghazyelhaq-cloud/DAZEL&color=blue&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/fadhilghazyelhaq-cloud/DAZEL?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/fadhilghazyelhaq-cloud/DAZEL)
+![Issues](https://img.shields.io/github/issues/fadhilghazyelhaq-cloud/DAZEL)
 ![Team](https://img.shields.io/badge/Team-DAZEL-black?style=flat&logo=github)
 ![Bot Status](https://img.shields.io/badge/Bot-Active-success)
+
 ---
 
 ## ⚡ About Us
