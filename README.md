@@ -33,23 +33,20 @@
 ## 🛠 Tech Stack
 
 
-<p align="center">
-  Core Development
-</p>
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center"><b>Core Development</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
+
+<p align="center"><b>Platform & Collaboration</b></p>
 
 <p align="center">
-  Database & Integration
+  <img src="https://img.shields.io/badge/Gamelab-Interactive%20Platform-orange?style=flat-square" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Telegram-Integration-2CA5E0?style=flat-square&logo=telegram" />
-</p>
-
 ---
 
 ## 🚀 Featured Project
@@ -128,9 +125,11 @@
   </a>
 </p>
 
-<p align="center">
-  &nbsp;
-</p>
+<br>
+<br>
+<br>
+<br>
+<br> 
 
 <p align="center">
   <strong>DAZEL</strong> • Automation Through Code  
