@@ -2,12 +2,18 @@
 <h3 align="center">Telegram Bot Developer • Backend Enthusiast • API Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAMEKAMU&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=danendzaki&color=0e75b6&style=flat" />
 </p>
 
+![Repo Views](https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=DAZEL&color=blue&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/danendzaki/DAZEL?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/danendzaki/DAZEL)
+![Issues](https://img.shields.io/github/issues/muhammadazmirobbani-maker/DAZEL)
+![Team](https://img.shields.io/badge/Team-DAZEL-black?style=flat&logo=github)
+![Bot Status](https://img.shields.io/badge/Bot-Active-success)
 ---
 
-## ⚡ About Me
+## ⚡ About Us
 
 - 🔭 Currently building automation systems using Python  
 - 🤖 Developing Telegram Bot solutions for UMKM  
