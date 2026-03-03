@@ -1,13 +1,27 @@
 <h1 align="center">DAZEL TEAM</h1>
 <h3 align="center">Telegram Bot Developer • Backend Enthusiast • API Explorer</h3>
 
+<h2 align="center">DAZEL</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAMEKAMU&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=DAZEL&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/github/contributors/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+  <img src="https://img.shields.io/badge/Project-DAZEL-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bot-Active-success?style=flat-square" />
 </p>
 
 ---
 
-## ⚡ About Me
+## ⚡ About Us
 
 - 🔭 Currently building automation systems using Python  
 - 🤖 Developing Telegram Bot solutions for UMKM  
@@ -18,10 +32,21 @@
 
 ## 🛠 Tech Stack
 
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center"><b>Core Development</b></p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
+<p align="center"><b>Platform & Collaboration</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gamelab-Interactive%20Platform-orange?style=flat-square" />
+</p>
 ---
 
 ## 🚀 Featured Project
@@ -100,11 +125,11 @@
   </a>
 </p>
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br> 
 
 <p align="center">
   <strong>DAZEL</strong> • Automation Through Code  
