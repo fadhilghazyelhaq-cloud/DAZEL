@@ -12,11 +12,6 @@
 </p>
 
 <p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=muhammadazmirobbani-maker&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/muhammadazmirobbani-maker?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/muhammadazmirobbani-maker?style=for-the-badge&color=yellow" />
-=======
   <img src="https://img.shields.io/github/languages/top/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/contributors/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
@@ -27,8 +22,8 @@
 ---
 
 
-## 💡 About DAZEL
-=======
+
+### 💡 About DAZEL
 
 
 > "Automation Through Code"
@@ -58,17 +53,16 @@
 <p align="center"><b>Core Development</b></p>
 
 <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,postgresql,fastapi,docker" />
-=======
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 <p align="center"><b>Platform & Collaboration</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gamelab-Interactive%20Platform-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gamelab-Interactive%20Platform-yellow?style=flat-square" />
 </p>
 ---
 
@@ -97,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadazmirobbani-maker&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=danendzaki&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -154,7 +148,7 @@
 
 
 ---
-=======
+
 <br>
 <br>
 <br>
