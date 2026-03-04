@@ -21,7 +21,7 @@
 
 ---
 
-## ⚡ About Us
+## ⚡ About DAZEL
 
 - 🔭 Currently building automation systems using Python  
 - 🤖 Developing Telegram Bot solutions for UMKM  
@@ -40,6 +40,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 <p align="center"><b>Platform & Collaboration</b></p>
