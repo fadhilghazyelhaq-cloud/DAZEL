@@ -96,6 +96,62 @@
 
 ---
 
+## 📋 Team Rules
+
+- Dilarang push ke branch main
+```
+
+## ⚙️ Installation
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/fadhilghazyelhaq-cloud/DAZEL.git
+cd DAZEL
+```
+
+---
+
+### 2️⃣ Install Dependencies
+
+Pastikan menggunakan **Python 3.10+**
+
+Jika menggunakan `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+Jika belum tersedia:
+
+```bash
+pip install python-telegram-bot
+```
+
+> SQLite sudah termasuk bawaan Python.
+
+---
+
+## ▶️ Running Program
+
+### 💻 CLI Version
+
+```bash
+python src/main.py
+```
+
+Program berjalan melalui terminal.
+
+## 📁 Project Structure
+
+```bash
+DAZEL/
+│
+├── docs/
+├── src/
+└── README.md
+```
+
 # 👥 Meet The Team
 
 ---
