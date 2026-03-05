@@ -27,7 +27,6 @@
 
 
 ## 💡 About DAZEL
-  ===
 
 
 > "Automation Through Code"
@@ -59,7 +58,6 @@
 <p align="center">
 
   <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,postgresql,fastapi,docker" />
-=======
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
