@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=muhammadazmirobbani-maker&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/muhammadazmirobbani-maker?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/muhammadazmirobbani-maker?style=for-the-badge&color=yellow" />
-=======
   <img src="https://img.shields.io/github/languages/top/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/contributors/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
@@ -28,7 +27,7 @@
 
 
 ## 💡 About DAZEL
-=======
+  ===
 
 
 > "Automation Through Code"
