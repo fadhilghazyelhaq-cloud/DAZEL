@@ -176,6 +176,7 @@ DAZEL/
 
 ## 👤 Fadhil Ghazy El Haq
 
+<p align="center">
   <a href="mailto:fadhilghazyelhaq@smkitihsanulfikri.sch.id">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
@@ -192,13 +193,13 @@ DAZEL/
 
 ## 👤 Danendra Dzaki Andita
 
+<p align="center">
   <a href="https://instagram.com/dzak_dann">
     <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="mailto:danendradzaki@smkitihsanulfikri.sch.id">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <p align="center">
   <a href="https://github.com/danendzaki">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
   </a>
