@@ -96,6 +96,64 @@
 
 ---
 
+## 📋 Team Rules
+
+- Dilarang push ke branch main
+
+## Untuk Menjalanakan Program
+
+```
+## ⚙️ Installation
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/fadhilghazyelhaq-cloud/DAZEL.git
+cd DAZEL
+```
+
+---
+
+### 2️⃣ Install Dependencies
+
+Pastikan menggunakan **Python 3.10+**
+
+Jika menggunakan `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+Jika belum tersedia:
+
+```bash
+pip install python-telegram-bot
+```
+
+> SQLite sudah termasuk bawaan Python.
+
+---
+
+## ▶️ Running Program
+
+### 💻 CLI Version
+
+```bash
+python src/main.py
+```
+
+Program berjalan melalui terminal.
+
+## 📁 Project Structure
+
+```bash
+DAZEL/
+│
+├── docs/
+├── src/
+└── README.md
+```
+
 # 👥 Meet The Team
 
 ---
@@ -119,14 +177,15 @@
 ## 👤 Fadhil Ghazy El Haq
 
 <p align="center">
+  <a href="mailto:fadhilghazyelhaq@smkitihsanulfikri.sch.id">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+   <p align="center">
   <a href="https://github.com/fadhilghazyelhaq-cloud">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://instagram.com/fadhilelhaqq">
+    <a href="https://instagram.com/fadhilelhaqq">
     <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="mailto:fadhilghazyelhaq@smkitihsanulfikri.sch.id">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -135,14 +194,14 @@
 ## 👤 Danendra Dzaki Andita
 
 <p align="center">
-  <a href="https://github.com/danendzaki">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
   <a href="https://instagram.com/dzak_dann">
     <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="mailto:danendradzaki@smkitihsanulfikri.sch.id">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/danendzaki">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
