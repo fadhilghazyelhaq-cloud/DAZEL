@@ -5,18 +5,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=DAZEL&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/stars/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/repo-size/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/contributors/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/badge/Project-DAZEL-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bot-Active-success?style=flat-square" />
 </p>
 
 ---
@@ -35,52 +30,15 @@
 
 ---
 
-## 🧠 Core Expertise
-
-- Telegram Bot Development  
-- REST API Integration  
-- Backend Logic Design  
-- Database Management  
-- Git Collaboration Workflow  
-
----
 
 ## 🛠 Tech Stack
 
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center"><b>Core Development</b></p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
-
-<p align="center"><b>Platform & Collaboration</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gamelab-Interactive%20Platform-yellow?style=flat-square" />
-</p>
-
-
-## 🚀 Featured Project
-
-# 🤖 DAZEL BOT – Smart Assistant for UMKM
-
-> A digital automation system built using Python & Telegram Bot API  
-> Designed to help small businesses scale smarter.
-
-### 🔥 Key Features
-✔ Auto Customer Service Reply  
-✔ Stock & Inventory Control via Chat  
-✔ Real-time API Integration  
-✔ Structured Git-based Development  
-✔ Secure Backend Architecture  
 
 ---
+
 
 ## 📊 Team Contribution Activity
 
@@ -94,71 +52,11 @@
   <img src="https://streak-stats.demolab.com?user=danendzaki&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📋 Team Rules
-
-- Dilarang push ke branch main
-
-## 📁 Project Structure
-
-```bash
-DAZEL/
-│
-├── docs/
-├── src/
-└── README.md
-```
-
-# Running Program
-
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/fadhilghazyelhaq-cloud/DAZEL.git
-cd DAZEL
-```
+## 👥 Connect With Team DAZEL
 
 ---
 
-### 2️⃣ Install Dependencies
-
-Pastikan menggunakan **Python 3.10+**
-
-Jika menggunakan `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
-Jika belum tersedia:
-
-```bash
-pip install python-telegram-bot
-```
-
-> SQLite sudah termasuk bawaan Python.
-
----
-
-## ▶️ Running Program
-
-### 💻 CLI Version
-
-```bash
-python src/main.py
-```
-
-Program berjalan melalui terminal.
-
-
-
-# 👥 Meet The Team
-
----
-
-## 👤 Muhammad Azmi Robbani
+### 👤 Muhammad Azmi Robbani
 
 <p align="center">
   <a href="https://github.com/muhammadazmirobbani-maker">
@@ -206,15 +104,12 @@ Program berjalan melalui terminal.
 </p>
 
 
-
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br> 
 
+<br>
+<br>
+<br>
 
 <p align="center">
   <strong>DAZEL TEAM</strong>  
