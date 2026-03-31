@@ -52,7 +52,7 @@
   <img src="https://streak-stats.demolab.com?user=danendzaki&theme=tokyonight&hide_border=true" />
 </p>
 
-## 👥 Connect With Us
+
 
 ---
 
