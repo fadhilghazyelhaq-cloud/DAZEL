@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
----
+
 
 
 ## 📊 Team Contribution Activity
@@ -52,7 +52,7 @@
   <img src="https://streak-stats.demolab.com?user=danendzaki&theme=tokyonight&hide_border=true" />
 </p>
 
-## 👥 Connect With Team DAZEL
+
 
 ---
 
