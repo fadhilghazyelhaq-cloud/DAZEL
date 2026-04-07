@@ -6,17 +6,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=DAZEL&style=flat-square&color=blue" />
   <img src="https://img.shields.io/github/last-commit/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
-</p>
-
-<p align="center">
-
-=======
-
   <img src="https://komarev.com/ghpvc/?username=muhammadazmirobbani-maker&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/muhammadazmirobbani-maker?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/muhammadazmirobbani-maker?style=for-the-badge&color=yellow" />
   <img src="https://img.shields.io/github/languages/top/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
-
   <img src="https://img.shields.io/github/repo-size/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/contributors/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/badge/Project-DAZEL-black?style=flat-square" />
@@ -24,11 +17,7 @@
 
 ---
 
-
-### 💡 About DAZEL
-=======
 ## 💡 About DAZEL
-
 
 > "Automation Through Code"
 
@@ -39,21 +28,13 @@
 
 ---
 
-
 ## 🛠 Tech Stack
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-=======
-
   <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,postgresql,fastapi,docker" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-
-
+---
 
 ## 📊 Team Contribution Activity
 
@@ -67,12 +48,9 @@
   <img src="https://streak-stats.demolab.com?user=danendzaki&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
 ---
 
 ### 👤 Muhammad Azmi Robbani
-
 <p align="center">
   <a href="https://github.com/muhammadazmirobbani-maker">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
@@ -88,7 +66,6 @@
 ---
 
 ## 👤 Fadhil Ghazy El Haq
-
 <p align="center">
   <a href="https://github.com/fadhilghazyelhaq-cloud">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
@@ -101,11 +78,9 @@
   </a>
 </p>
 
-
-
+---
 
 ## 👤 Danendra Dzaki Andita
-
 <p align="center">
   <a href="https://github.com/danendzaki">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
@@ -118,18 +93,12 @@
   </a>
 </p>
 
-
 ---
 
-
-<br>
-<br>
-<br>
+<br><br><br>
 
 <p align="center">
-  <strong>DAZEL TEAM</strong>  
-  <br>
-  🚀 Automation • Innovation • Collaboration  
-  <br><br>
+  <strong>DAZEL TEAM</strong><br>
+  🚀 Automation • Innovation • Collaboration<br><br>
   © 2026 DAZEL. All Rights Reserved.
 </p>
