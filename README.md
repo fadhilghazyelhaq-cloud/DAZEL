@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+<<<<<<< HEAD
+=======
+
+  <img src="https://komarev.com/ghpvc/?username=muhammadazmirobbani-maker&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/muhammadazmirobbani-maker?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/muhammadazmirobbani-maker?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/languages/top/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
+>>>>>>> c703132de2c1310bb6763e0345a9f04103b12685
   <img src="https://img.shields.io/github/repo-size/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/github/contributors/fadhilghazyelhaq-cloud/DAZEL?style=flat-square" />
   <img src="https://img.shields.io/badge/Project-DAZEL-black?style=flat-square" />
@@ -17,8 +25,12 @@
 ---
 
 
+<<<<<<< HEAD
 
 ### 💡 About DAZEL
+=======
+## 💡 About DAZEL
+>>>>>>> c703132de2c1310bb6763e0345a9f04103b12685
 
 
 > "Automation Through Code"
@@ -34,7 +46,14 @@
 ## 🛠 Tech Stack
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+=======
+
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,postgresql,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=github" />
+>>>>>>> c703132de2c1310bb6763e0345a9f04103b12685
 </p>
 
 
