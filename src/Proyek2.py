@@ -14,11 +14,11 @@ def menu():
         ["📦 Paket", "📊 Stok"]
     ], resize_keyboard=True)
 
-# START
+#mulai
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Selamat datang!", reply_markup=menu())
 
-# LIHAT PAKET
+#lihat paket
 async def paket(update: Update, context: ContextTypes.DEFAULT_TYPE):
     data = get_produk()
     teks = "📦 DAFTAR PAKET:\n\n"
@@ -32,7 +32,7 @@ async def paket(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_text(teks, reply_markup=InlineKeyboardMarkup(keyboard))
 
-# BUTTON
+#tombol UI
 async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
@@ -40,7 +40,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = query.from_user.id
     data = query.data
 
-    # ================= BELI =================
+    #beli paket
     if data.startswith("beli_"):
         nama = data.replace("beli_", "")
         simpan_pesanan(user_id, nama)
@@ -54,7 +54,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
             reply_markup=InlineKeyboardMarkup(keyboard)
         )
 
-    # ================= BAYAR =================
+    #bayar paket
     elif data == "bayar":
         keyboard = [
             [InlineKeyboardButton("✅ Konfirmasi", callback_data="konfirmasi")]
@@ -69,7 +69,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
             reply_markup=InlineKeyboardMarkup(keyboard)
         )
 
-    # ================= KONFIRMASI =================
+    #konfirmasi pembayaran dari pelanggan
     elif data == "konfirmasi":
         nama = ambil_pesanan(user_id)
 
@@ -83,7 +83,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         await query.edit_message_text("⏳ Menunggu admin...")
 
-    # ================= ACC =================
+    #acc pembayaran dari admin
     elif data.startswith("acc_"):
         uid = int(data.split("_")[1])
         nama = ambil_pesanan(uid)
@@ -99,7 +99,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         await query.edit_message_text("✔ Pesanan di-ACC")
 
-# STOK
+#stok barang
 async def stok(update: Update, context: ContextTypes.DEFAULT_TYPE):
     data = get_produk()
     teks = "📊 STOK:\n"
@@ -107,7 +107,7 @@ async def stok(update: Update, context: ContextTypes.DEFAULT_TYPE):
         teks += f"{d[0]}: {d[2]}\n"
     await update.message.reply_text(teks)
 
-# HANDLE MENU
+#menu
 async def handle(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = update.message.text
 
@@ -116,8 +116,8 @@ async def handle(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif text == "📊 Stok":
         await stok(update, context)
 
-# RUN
-app = ApplicationBuilder().token("8577954057:AAHC1yLDoRgGNbCXoBHvaVTIeSdPIthwF_w").build()
+#run bot
+app = ApplicationBuilder().token("8692127300:AAH1tamr3ZqtW5OZizA_63YD_KokZHfsY3I").build()
 
 app.add_handler(CommandHandler("start", start))
 app.add_handler(CallbackQueryHandler(button))
