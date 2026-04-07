@@ -25,3 +25,11 @@ def tambah_produk():
 )
 
     conn.commit()
+
+def get_produk():
+    cursor.execute("SELECT * FROM produk")
+    return cursor.fetchall()
+
+def kurangi_stok(nama):
+    cursor.execute("UPDATE produk SET stok = stok - 1 WHERE nama=?", (nama,))
+    conn.commit()
