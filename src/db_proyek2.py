@@ -12,3 +12,16 @@ def init_db():
     )
     """)
     conn.commit()
+
+def tambah_produk():
+    data = [
+        ("Paket Hemat", 95000, 20),
+        ("Paket Keluarga", 195000, 15)
+    ]
+
+    for d in data:
+        cursor.execute(
+            "INSERT OR IGNORE INTO produk VALUES (?, ?, ?)", d
+)
+
+    conn.commit()
