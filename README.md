@@ -1,7 +1,7 @@
 <h1 align="center">🚀 DAZEL TEAM</h1>
 <h3 align="center">Telegram Bot Developer • Backend Builder • API Integrator</h3>
 
-<h2 align="center">DAZEL</h2>
+<h2 align="center">DAZEL TEAM</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fadhilghazyelhaq-cloud&repo=DAZEL&style=flat-square&color=blue" />
