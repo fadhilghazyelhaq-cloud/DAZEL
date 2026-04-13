@@ -3,7 +3,12 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 
 from db_proyek2 import init_db, tambah_produk, get_produk, kurangi_stok
 from service_proyek2 import simpan_pesanan, ambil_pesanan, hapus_pesanan
+import os
+from dotenv import load_dotenv
 
+load_dotenv()  
+
+print("CEK TOKEN:", os.getenv("TOKEN"))
 OWNER_ID = 8660243218
 
 init_db()
@@ -117,7 +122,7 @@ async def handle(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await stok(update, context)
 
 #run bot
-app = ApplicationBuilder().token("8692127300:AAH1tamr3ZqtW5OZizA_63YD_KokZHfsY3I").build()
+app = ApplicationBuilder().token(os.getenv("TOKEN")).build()
 
 app.add_handler(CommandHandler("start", start))
 app.add_handler(CallbackQueryHandler(button))
